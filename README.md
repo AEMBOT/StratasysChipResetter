@@ -6,3 +6,7 @@ Based on this GUI: https://github.com/slaytonrnd/CartridgeWriter and probably th
 
 ## Ideal Features
   * Auto-detect printer type?
+  * Keep all settings the same except for serial number (randomize it) and filament amount (set to initial amount)
+
+## Testing
+  * Ensure it reproduces the same binary as CartridgeWriter above
